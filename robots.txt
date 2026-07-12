@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://homeiswhereheis.net
+Sitemap: https://homeiswhereheis.net/sitemap.xml
