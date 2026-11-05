@@ -20,4 +20,4 @@
 :HL["/helping-your-boyfriend-cover.webp","image"]
 :HL["/odio-el-chocolate/logo.webp","image"]
 :HL["/you-are-hamster-cover.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"you-are-hamster","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"1pLIN8K15l8GLXQKUpy5p"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"you-are-hamster","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"CJs6L6Z1uobtQhi9rGKOw"}
