@@ -21,4 +21,4 @@
 :HL["/odio-el-chocolate/logo.webp","image"]
 :HL["/you-are-hamster-cover.webp","image"]
 :HL["/best-friends-for-dinner-cover.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"odio-el-chocolate","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"J20Xg4Pknm4g4Kkw1pWTo"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"odio-el-chocolate","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"jocEwJQQMsZR7fgm1T1AC"}
