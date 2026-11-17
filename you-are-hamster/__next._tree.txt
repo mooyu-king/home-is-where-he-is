@@ -1,11 +1,12 @@
-:HL["/_next/static/chunks/0qx9b101orxac.css","style"]
-:HL["/_next/static/chunks/18nakyz68f5vz.css","style"]
+:HL["/_next/static/chunks/3s7r4ihdgy6t3.css","style"]
+:HL["/_next/static/chunks/0mna--w-j-sxh.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap","style"]
 :HL["/home-is-where-he-is-logo.webp","image"]
 :HL["/cobb-can-move.webp","image"]
 :HL["/kingdom-of-marionettes.webp","image"]
 :HL["/jackpot-crash-course-logo.webp","image"]
 :HL["/human-expenditure-program-bloodmoney-2-0.webp","image"]
+:HL["/suzy-says-logo.webp","image"]
 :HL["/tadcdatingsim-1.webp","image"]
 :HL["/survive-min.webp","image"]
 :HL["/the-false-sun-logo.webp","image"]
@@ -21,4 +22,4 @@
 :HL["/odio-el-chocolate/logo.webp","image"]
 :HL["/you-are-hamster-cover.webp","image"]
 :HL["/best-friends-for-dinner-cover.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"you-are-hamster","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"jocEwJQQMsZR7fgm1T1AC"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"you-are-hamster","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"ZQTswOT0hqkT_THFKaxrE"}
